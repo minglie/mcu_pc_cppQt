@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\main1.o
+./release\PC.o
+./release\subprogram.o
+./release\main1.o
+./release\PC.o
+./release\subprogram.o
+./release\ucos.o
+./release\moc_mainwindow.o
+);

@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\main1.o
+./debug\PC.o
+./debug\subprogram.o
+./debug\main1.o
+./debug\PC.o
+./debug\subprogram.o
+./debug\ucos.o
+./debug\moc_mainwindow.o
+);
